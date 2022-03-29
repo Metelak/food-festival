@@ -3,5 +3,28 @@
     "bootstrap": "^4.3.1",
     "popper": "^1.0.1",
     "save": "^2.4.0"
-  }
+  },
+  "name": "food-festival",
+  "description": "Module 19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metelak/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metelak/food-festival/issues"
+  },
+  "homepage": "https://github.com/Metelak/food-festival#readme"
 }
